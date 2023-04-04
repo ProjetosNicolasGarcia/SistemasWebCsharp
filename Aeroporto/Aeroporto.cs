@@ -2,27 +2,29 @@
 class Aeroporto
 {   
 
-     public Aeroporto()
+     public Aeroporto(int codigo, string nome)
     {
-        this.Codigo = 0;
-        this.Nome = "Não informado";
+        this.Codigo = codigo;
+        this.Nome = nome;
         this.Entrada = "Não informado";
         this.Saida = "Não informado";
         
     }
 
-    public Aeroporto(int codigo, string nome)
+    public Aeroporto(int codigo, string nome, string entrada, string saida)
     {
-        this.Codigo = 0;
-        this.Nome = "Não informado";
-        this.Entrada = "Não informado";
-        this.Saida = "Não informado";
+        this.Codigo = codigo;
+        this.Nome = nome;
+        this.Entrada = entrada;
+        this.Saida = saida;
         
     }
 
+    public Aeroporto()
+    {
+    }
 
-
-     private int Codigo {get; set;}
+    private int Codigo {get; set;}
      private string? Nome {get; set;}
      private string? Entrada {get; set;}
      private string? Saida {get; set;}
@@ -47,12 +49,8 @@ class Aeroporto
         Console.WriteLine("Código: " + this.Codigo);
         Console.WriteLine("Nome: " + this.Nome);
         Console.WriteLine("Entrada: " + this.Entrada);
-        Console.WriteLine("Entrada: " + this.Saida);
+        Console.WriteLine("Saída: " + this.Saida);
 
     }
 
-    internal void AlteraCodigo()
-    {
-        throw new NotImplementedException();
-    }
 }

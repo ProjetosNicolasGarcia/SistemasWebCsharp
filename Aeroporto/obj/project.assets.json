@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\unkno\\.nuget\\packages\\": {}
+    "C:\\Users\\Aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unkno\\Desktop\\Aeroporto\\Aeroporto.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Downloads\\AulasSW-main\\Aeroporto\\Aeroporto.csproj",
       "projectName": "Aeroporto",
-      "projectPath": "C:\\Users\\unkno\\Desktop\\Aeroporto\\Aeroporto.csproj",
-      "packagesPath": "C:\\Users\\unkno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unkno\\Desktop\\Aeroporto\\obj\\",
+      "projectPath": "C:\\Users\\Aluno\\Downloads\\AulasSW-main\\Aeroporto\\Aeroporto.csproj",
+      "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aluno\\Downloads\\AulasSW-main\\Aeroporto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\unkno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
