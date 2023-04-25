@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Bancoemprestimo\bin\Debug\net7.0\Bancoemprestimo.exe
+C:\Users\LAB4\Desktop\Bancoemprestimo\bin\Debug\net7.0\Bancoemprestimo.deps.json
+C:\Users\LAB4\Desktop\Bancoemprestimo\bin\Debug\net7.0\Bancoemprestimo.runtimeconfig.json
+C:\Users\LAB4\Desktop\Bancoemprestimo\bin\Debug\net7.0\Bancoemprestimo.dll
+C:\Users\LAB4\Desktop\Bancoemprestimo\bin\Debug\net7.0\Bancoemprestimo.pdb
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\Bancoemprestimo.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\Bancoemprestimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\Bancoemprestimo.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\Bancoemprestimo.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\Bancoemprestimo.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\Bancoemprestimo.dll
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\refint\Bancoemprestimo.dll
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\Bancoemprestimo.pdb
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\Bancoemprestimo.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Bancoemprestimo\obj\Debug\net7.0\ref\Bancoemprestimo.dll
