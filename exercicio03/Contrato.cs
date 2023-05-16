@@ -1,16 +1,20 @@
 ﻿namespace exercicio03;
 class Contrato
 
+
 {
-   public string? Tipo {get;set;}
+   public string? Nome {get;set;}
 
-   public long Cpf {get;set;}
+   public string? Email {get;set;}
 
-   public int Idade {get;set;}
+   public string? Telefone {get;set;}
 
-   public long Inscricao {get;set;}
+   public virtual string MostraDados(){
 
-   public long Cnpj {get;set;}
+      string Tudo = this.Nome + "-" + this.Email + "-" + this.Telefone;
+      return Tudo;
+
+   }
 
    public int Prazo {get;set;}
 

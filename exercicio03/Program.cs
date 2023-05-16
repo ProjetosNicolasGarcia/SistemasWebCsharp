@@ -3,22 +3,30 @@ class Program
 {
     static void Main(string[] args)
     {
+        
+
         Contrato c = new Contrato();
         ContratoPessoaFisica cf = new ContratoPessoaFisica();
         ContratoPessoaJuridica cj = new ContratoPessoaJuridica();
 
-        cf.Tipo = "Pessoa física";
+        cf.Nome = "Nicolas";
+        cf.Email = "nicolas@gmail.com";
+        cf.Telefone = "40028922";
         cf.Idade = 69;
         cf.Cpf = 44149248800;
-        cj.Tipo = "Pessoa Jurídica";
+        cj.Nome = "ETEC";
+        cj.Email = "etec@gmail.com";
+        cj.Telefone = "77776666";
         cj.Cnpj = 42520353000162;
         cj.Inscricao = 037689759148;
         cj.Prazo = 12;
         cf.Prazo = 12;
-       
 
-        Console.WriteLine("Tipo de contrato: " + cf.Tipo + "| Idade: " + cf.Idade + "| CPF: " +cf.Cpf + "| Valor do contrato: " + c.CalcularPrestacao() + "| Prazo de pagamento: "+ cf.Prazo + "| Valor das prestações: " + cf.CalcularPrestacao());
-        Console.WriteLine("Tipo de contrato: " + cj.Tipo + "| CNPJ: " + cj.Cnpj + "| Inscrição estadual: " +cj.Inscricao + "| Valor do contrato: " + c.CalcularPrestacao() + "| Prazo de pagamento: " + cj.Prazo + "| Valor das prestações: " + cj.CalcularPrestacao());
+        Console.WriteLine(cf.MostraDados());
+         Console.WriteLine(cf.CalcularPrestacao());
+        Console.WriteLine(cj.MostraDados());
+         Console.WriteLine(cj.CalcularPrestacao());
+       
         
     }
 } 
